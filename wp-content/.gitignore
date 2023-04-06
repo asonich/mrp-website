@@ -1,6 +1,0 @@
-*.tar
-*.rar
-*.zip
-*.gz
-node_modules
-wp-config.php

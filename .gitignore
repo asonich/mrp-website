@@ -1,5 +1,6 @@
-wp-config.php
-node_modules
-*.gz
+*.tar
 *.rar
-&.zip
+*.zip
+*.gz
+node_modules
+wp-config.php
